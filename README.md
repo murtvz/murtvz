@@ -12,6 +12,6 @@ I'm a full-stack developer from Sweden. I love coding, solving problems and deve
 
 ## Work
 
-<img align="left" width="1920" src="https://github.com/murtvz/murtvz/blob/main/instagram.gif?raw=true" />
+<img width="1000" src="https://github.com/murtvz/murtvz/blob/main/instagram-hd.gif?raw=true" />
 
 View the [demo](https://instagram-murtvz.vercel.app/), [frontend](https://github.com/murtvz/instagram-client) and [backend](https://github.com/murtvz/instagram-server) repo.
